@@ -72,6 +72,6 @@ The attacker performed internal discovery to find high-value targets.
 
 *This investigation was performed as part of the TryHackMe SOC Level 1 path to demonstrate proficiency in endpoint and network analysis.*
 
-[⬅️ Back to Profile Hub](https://www.google.com/search?q=https://github.com/ssaunders91)
+[⬅️ Back to Profile Hub](https://github.com/ssaunders91)
 
 -----
